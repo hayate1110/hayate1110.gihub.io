@@ -1,34 +1,34 @@
 ---
 # Display name
-title: 吳健雄
+title: Gale
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gale
+last_name: 全日本ストリートダンス連盟JUSDL沖縄支部
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🕺
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 全日本ストリートダンス連盟JUSDL沖縄支部
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: 全日本ストリートダンス連盟JUSDL
     url: https://www.stanford.edu/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: send
-    link: 'mailto:your-email@example.com'
+    link: 'e225719@ie.u-ryukyu.ac.jp'
   - icon: twitter
     link: https://twitter.com/wowchemy
     label: Follow me on Twitter

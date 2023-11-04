@@ -24,7 +24,7 @@ sections:
           url: https://arxiv.org/abs/2304.01852
         - title: Watch my new YouTube video to achieve 20x productivity
           icon: youtube
-          url: https://youtube.com
+          url: https://www.youtube.com/@jusdl_gale
         - title: Connect with me on LinkedIn
           icon: linkedin
           url: https://linkedin.com
